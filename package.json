@@ -89,7 +89,7 @@
         "dayjs": "~1.11.19",
         "dev-null": "~0.1.1",
         "dotenv": "~16.0.3",
-        "express": "~4.22.1",
+        "express": "~4.22.2",
         "express-basic-auth": "~1.2.1",
         "express-static-gzip": "~2.1.8",
         "feed": "~4.2.2",
@@ -111,7 +111,7 @@
         "kafkajs": "~2.2.4",
         "knex": "~3.1.0",
         "limiter": "~2.1.0",
-        "liquidjs": "~10.25.0",
+        "liquidjs": "~10.26.0",
         "marked": "~14.1.4",
         "mitt": "~3.0.1",
         "mongodb": "~4.17.2",
@@ -134,8 +134,8 @@
         "prom-client": "~13.2.0",
         "prometheus-api-metrics": "~3.2.2",
         "promisify-child-process": "~4.1.2",
-        "protobufjs": "~7.2.6",
-        "qs": "~6.14.2",
+        "protobufjs": "~7.6.1",
+        "qs": "~6.15.2",
         "radius": "~1.1.4",
         "redbean-node": "~0.3.3",
         "redis": "~5.9.0",
@@ -151,7 +151,7 @@
         "tough-cookie": "~4.1.4",
         "validator": "~13.15.26",
         "web-push": "~3.6.7",
-        "ws": "~8.19.0"
+        "ws": "~8.21.0"
     },
     "devDependencies": {
         "@actions/github": "~6.0.1",
